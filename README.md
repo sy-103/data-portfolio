@@ -4,6 +4,8 @@
 
 ### 📄 [포트폴리오 PDF 보기](Gwon-Seyun_Portfolio_Data-Analysis.pdf)
 
+백엔드 포트폴리오: [sy-103.github.io/backend-portfolio](https://sy-103.github.io/backend-portfolio/)
+
 ---
 
 ## About
@@ -17,9 +19,9 @@
 | 프로젝트 | 내용 |
 |---|---|
 | **한국형 범죄 심각도 지수(KCSI)** | 대법원 선고 형량을 가중치로 한 지수 설계 · 규제회귀(Ridge · Lasso · ElasticNet) · KCI 등재지 게재 |
-| **개인 맞춤형 퀘스트 서비스** | 내일 공부시간 예측 모델(LightGBM) · 누수 방지 설계 · 예측값을 서비스 기능으로 배포 |
+| **개인 맞춤형 퀘스트 서비스** | 내일 공부시간 예측 모델(LightGBM) · 누수 방지 설계 · 예측 모델을 FastAPI 예측 서비스로 배포 |
 | **사계절 붕괴와 에너지 수요** | 정규성 검정 → 비모수 검정(Kruskal-Wallis · Dunn) · VIF 기반 변수 선택 · 다중회귀 |
-| **Backend** | 센서 데이터 파이프라인(MQTT · RabbitMQ · InfluxDB) · Spring AI · Mini Dooray |
+| **Backend** | IoT 센서 데이터 파이프라인(MQTT · RabbitMQ · InfluxDB) · Spring AI · Mini Dooray |
 
 ## 수상 · 논문
 
